@@ -1,0 +1,11 @@
+name: AsyncTeleport
+version: ${project.version}
+main: net.craftgalaxy.asyncteleport.AsyncTeleport
+api-version: 1.16
+authors: [Frank]
+commands:
+  rtp:
+    description: Wilderness plugin.
+    aliases:
+      - wild
+      - wilderness

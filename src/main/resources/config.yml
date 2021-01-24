@@ -1,0 +1,10 @@
+wilderness-world-name: earth
+coordinates:
+  x1: 2048
+  z1: 1024
+  x2: 64511
+  z2: 30207
+
+cooldowns:
+  donator-duration: 15
+  default-duration: 30
